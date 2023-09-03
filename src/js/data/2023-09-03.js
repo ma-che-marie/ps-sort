@@ -1,22 +1,18 @@
-dataSetVersion = "2022-08-18"; // Change this when creating a new data set version. YYYY-MM-DD format.
+dataSetVersion = "2023-09-03"; // Change this when creating a new data set version. YYYY-MM-DD format.
 dataSet[dataSetVersion] = {};
 
 dataSet[dataSetVersion].options = [
   {
-    name: "Filter by Series",
-    key: "series",
-    tooltip: "Check this to restrict to certain series.",
+    name: "Filter by Season",
+    key: "season",
+    tooltip: "Check this to restrict to certain seasons/contestants.",
     checked: false,
     sub: [
-	  { name: "THE iDOLM@STER", tooltip: "765Pro, 961Pro, 876Pro", key: "IM" },
-      { name: "THE iDOLM@STER: Cinderella Girls", tooltip: "Deresute", key: "CG" },
-      { name: "THE iDOLM@STER: Million Live!", tooltip: "Mirishita", key: "ML" },
-      { name: "THE iDOLM@STER: Shiny Colors", tooltip: "Shinymas", key: "SC" },
-      { name: "Love Live!", tooltip: "SIFAS", key: "LL" },
-      { name: "BanG Dream!", tooltip: "Bandori", key: "BD" },
-	  { name: "D4DJ", tooltip: "D4DJ", key: "D4" },
-	  { name: "PriPara", tooltip: "PriPara", key: "PP" },
-	  { name: "Denonbu", tooltip: "Denonbu", key: "DN" },
+	  { name: "Season 1 Finalists", key: "S1" },
+      { name: "Season 2 Finalists", key: "S2" },
+      { name: "Season 3 Finalists", key: "S3" },
+      { name: "Season 4 Finalists", key: "S4" },
+      { name: "Season 4 Contestants (Non-Finalists)", key: "S4all" }
     ]
   }
 ];

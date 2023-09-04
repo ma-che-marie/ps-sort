@@ -45,56 +45,56 @@ dataSet[dataSetVersion].options = [
 dataSet[dataSetVersion].characterData = [
   {
     name: "Eriko Nakamura",
-    img: "kohoonjeong.png",
+    img: "kohoonjeong copy.png",
     opts: {
       season: ["S1"]
     }
   },
   {
     name: "Asami Imai",
-    img: "kimhyunsoo.png",
+    img: "kohoonjeong copy.png",
     opts: {
       season: ["S1"]
     }
   },
   {
     name: "Yurina Hase",
-    img: "kohoonjeong.png",
+    img: "kohoonjeong copy.png",
     opts: {
       season: ["S1"]
     }
   },
   {
     name: "Azumi Asakura",
-    img: "kohoonjeong.png",
+    img: "kohoonjeong copy.png",
     opts: {
       season: ["S1"]
     },
   },
 	{
     name: "Eriko Nakamura",
-    img: "kohoonjeong.png",
+    img: "kohoonjeong copy.png",
     opts: {
       season: ["S1"]
     }
   },
   {
     name: "Asami Imai",
-    img: "kohoonjeong.png",
+    img: "kohoonjeong copy.png",
     opts: {
       season: ["S1"]
     }
   },
   {
     name: "Yurina Hase",
-    img: "kohoonjeong.png",
+    img: "kohoonjeong copy.png",
     opts: {
       season: ["S1"]
     }
   },
   {
     name: "Azumi Asakura",
-    img: "kohoonjeong.png",
+    img: "kohoonjeong copy.png",
     opts: {
       season: ["S1"]
     },

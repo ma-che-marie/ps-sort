@@ -121,7 +121,259 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "Azumi 12Asakura",
+    img: "audreycrop.jpg",
+    opts: {
+      season: ["S1"]
+    },
+  },
+	{
+    name: "Eriko Nakamura",
+    img: "audreycrop.jpg",
+    opts: {
+      season: ["S1"]
+    }
+  },
+  {
+    name: "Asami Imai",
+    img: "audreycrop.jpg",
+    opts: {
+      season: ["S1"]
+    }
+  },
+  {
+    name: "Yurina Hase",
+    img: "audreycrop.jpg",
+    opts: {
+      season: ["S1"]
+    }
+  },
+  {
     name: "Azumi Asakura",
+    img: "audreycrop.jpg",
+    opts: {
+      season: ["S1"]
+    },
+  },
+	{
+    name: "Eriko Nakamura",
+    img: "audreycrop.jpg",
+    opts: {
+      season: ["S1"]
+    }
+  },
+  {
+    name: "Asami Imai",
+    img: "audreycrop.jpg",
+    opts: {
+      season: ["S1"]
+    }
+  },
+  {
+    name: "Yurina Hase",
+    img: "audreycrop.jpg",
+    opts: {
+      season: ["S1"]
+    }
+  },
+  {
+    name: "Azumi Asakura",
+    img: "audreycrop.jpg",
+    opts: {
+      season: ["S1"]
+    },
+  },
+	{
+    name: "Eriko Nakamura",
+    img: "audreycrop.jpg",
+    opts: {
+      season: ["S1"]
+    }
+  },
+  {
+    name: "Asami Imai",
+    img: "audreycrop.jpg",
+    opts: {
+      season: ["S1"]
+    }
+  },
+  {
+    name: "Yurina Hase",
+    img: "audreycrop.jpg",
+    opts: {
+      season: ["S1"]
+    }
+  },
+  {
+    name: "Azumi24 Asakura",
+    img: "audreycrop.jpg",
+    opts: {
+      season: ["S1"]
+    },
+  },
+	{
+    name: "Eriko Nakamura",
+    img: "audreycrop.jpg",
+    opts: {
+      season: ["S1"]
+    }
+  },
+  {
+    name: "Asami Imai",
+    img: "audreycrop.jpg",
+    opts: {
+      season: ["S1"]
+    }
+  },
+  {
+    name: "Yurina Hase",
+    img: "audreycrop.jpg",
+    opts: {
+      season: ["S1"]
+    }
+  },
+  {
+    name: "Azumi Asakura",
+    img: "audreycrop.jpg",
+    opts: {
+      season: ["S1"]
+    },
+  },
+	{
+    name: "Eriko Nakamura",
+    img: "audreycrop.jpg",
+    opts: {
+      season: ["S1"]
+    }
+  },
+  {
+    name: "Asami Imai",
+    img: "audreycrop.jpg",
+    opts: {
+      season: ["S1"]
+    }
+  },
+  {
+    name: "Yurina Hase",
+    img: "audreycrop.jpg",
+    opts: {
+      season: ["S1"]
+    }
+  },
+  {
+    name: "Azumi Asakura",
+    img: "audreycrop.jpg",
+    opts: {
+      season: ["S1"]
+    },
+  },
+	{
+    name: "Eriko Nakamura",
+    img: "audreycrop.jpg",
+    opts: {
+      season: ["S1"]
+    }
+  },
+  {
+    name: "Asami Imai",
+    img: "audreycrop.jpg",
+    opts: {
+      season: ["S1"]
+    }
+  },
+  {
+    name: "Yurina Hase",
+    img: "audreycrop.jpg",
+    opts: {
+      season: ["S1"]
+    }
+  },
+  {
+    name: "Azumi 36Asakura",
+    img: "audreycrop.jpg",
+    opts: {
+      season: ["S1"]
+    },
+  },
+	{
+    name: "Eriko Nakamura",
+    img: "audreycrop.jpg",
+    opts: {
+      season: ["S1"]
+    }
+  },
+  {
+    name: "Asami Imai",
+    img: "audreycrop.jpg",
+    opts: {
+      season: ["S1"]
+    }
+  },
+  {
+    name: "Yurina Hase",
+    img: "audreycrop.jpg",
+    opts: {
+      season: ["S1"]
+    }
+  },
+  {
+    name: "Azumi Asakura",
+    img: "audreycrop.jpg",
+    opts: {
+      season: ["S1"]
+    },
+  },
+	{
+    name: "Eriko Nakamura",
+    img: "audreycrop.jpg",
+    opts: {
+      season: ["S1"]
+    }
+  },
+  {
+    name: "Asami Imai",
+    img: "audreycrop.jpg",
+    opts: {
+      season: ["S1"]
+    }
+  },
+  {
+    name: "Yurina Hase",
+    img: "audreycrop.jpg",
+    opts: {
+      season: ["S1"]
+    }
+  },
+  {
+    name: "Azumi Asakura",
+    img: "audreycrop.jpg",
+    opts: {
+      season: ["S1"]
+    },
+  },
+	{
+    name: "Eriko Nakamura",
+    img: "audreycrop.jpg",
+    opts: {
+      season: ["S1"]
+    }
+  },
+  {
+    name: "Asami Imai",
+    img: "audreycrop.jpg",
+    opts: {
+      season: ["S1"]
+    }
+  },
+  {
+    name: "Yurina Hase",
+    img: "audreycrop.jpg",
+    opts: {
+      season: ["S1"]
+    }
+  },
+  {
+    name: "Azumi 48Asakura",
     img: "audreycrop.jpg",
     opts: {
       season: ["S1"]
@@ -239,285 +491,5 @@ dataSet[dataSetVersion].characterData = [
       season: ["S1"]
     },
   },
-	{
-    name: "Eriko Nakamura",
-    img: "audreycrop.jpg",
-    opts: {
-      season: ["S1"]
-    }
-  },
-  {
-    name: "Asami Imai",
-    img: "audreycrop.jpg",
-    opts: {
-      season: ["S1"]
-    }
-  },
-  {
-    name: "Yurina Hase",
-    img: "audreycrop.jpg",
-    opts: {
-      season: ["S1"]
-    }
-  },
-  {
-    name: "Azumi Asakura",
-    img: "audreycrop.jpg",
-    opts: {
-      season: ["S1"]
-    },
-  },
-	{
-    name: "Eriko Nakamura",
-    img: "audreycrop.jpg",
-    opts: {
-      season: ["S1"]
-    }
-  },
-  {
-    name: "Asami Imai",
-    img: "audreycrop.jpg",
-    opts: {
-      season: ["S1"]
-    }
-  },
-  {
-    name: "Yurina Hase",
-    img: "audreycrop.jpg",
-    opts: {
-      season: ["S1"]
-    }
-  },
-  {
-    name: "Azumi Asakura",
-    img: "audreycrop.jpg",
-    opts: {
-      season: ["S1"]
-    },
-  },
-	{
-    name: "Eriko Nakamura",
-    img: "audreycrop.jpg",
-    opts: {
-      season: ["S1"]
-    }
-  },
-  {
-    name: "Asami Imai",
-    img: "audreycrop.jpg",
-    opts: {
-      season: ["S1"]
-    }
-  },
-  {
-    name: "Yurina Hase",
-    img: "audreycrop.jpg",
-    opts: {
-      season: ["S1"]
-    }
-  },
-  {
-    name: "Azumi Asakura",
-    img: "audreycrop.jpg",
-    opts: {
-      season: ["S1"]
-    },
-  },
-	{
-    name: "Eriko Nakamura",
-    img: "audreycrop.jpg",
-    opts: {
-      season: ["S1"]
-    }
-  },
-  {
-    name: "Asami Imai",
-    img: "audreycrop.jpg",
-    opts: {
-      season: ["S1"]
-    }
-  },
-  {
-    name: "Yurina Hase",
-    img: "audreycrop.jpg",
-    opts: {
-      season: ["S1"]
-    }
-  },
-  {
-    name: "Azumi Asakura",
-    img: "audreycrop.jpg",
-    opts: {
-      season: ["S1"]
-    },
-  },
-	{
-    name: "Eriko Nakamura",
-    img: "audreycrop.jpg",
-    opts: {
-      season: ["S1"]
-    }
-  },
-  {
-    name: "Asami Imai",
-    img: "audreycrop.jpg",
-    opts: {
-      season: ["S1"]
-    }
-  },
-  {
-    name: "Yurina Hase",
-    img: "audreycrop.jpg",
-    opts: {
-      season: ["S1"]
-    }
-  },
-  {
-    name: "Azumi Asakura",
-    img: "audreycrop.jpg",
-    opts: {
-      season: ["S1"]
-    },
-  },
-	{
-    name: "Eriko Nakamura",
-    img: "audreycrop.jpg",
-    opts: {
-      season: ["S1"]
-    }
-  },
-  {
-    name: "Asami Imai",
-    img: "audreycrop.jpg",
-    opts: {
-      season: ["S1"]
-    }
-  },
-  {
-    name: "Yurina Hase",
-    img: "audreycrop.jpg",
-    opts: {
-      season: ["S1"]
-    }
-  },
-  {
-    name: "Azumi Asakura",
-    img: "audreycrop.jpg",
-    opts: {
-      season: ["S1"]
-    },
-  },
-	{
-    name: "Eriko Nakamura",
-    img: "audreycrop.jpg",
-    opts: {
-      season: ["S1"]
-    }
-  },
-  {
-    name: "Asami Imai",
-    img: "audreycrop.jpg",
-    opts: {
-      season: ["S1"]
-    }
-  },
-  {
-    name: "Yurina Hase",
-    img: "audreycrop.jpg",
-    opts: {
-      season: ["S1"]
-    }
-  },
-  {
-    name: "Azumi Asakura",
-    img: "audreycrop.jpg",
-    opts: {
-      season: ["S1"]
-    },
-  },
-	{
-    name: "Eriko Nakamura",
-    img: "audreycrop.jpg",
-    opts: {
-      season: ["S1"]
-    }
-  },
-  {
-    name: "Asami Imai",
-    img: "audreycrop.jpg",
-    opts: {
-      season: ["S1"]
-    }
-  },
-  {
-    name: "Yurina Hase",
-    img: "audreycrop.jpg",
-    opts: {
-      season: ["S1"]
-    }
-  },
-  {
-    name: "Azumi Asakura",
-    img: "audreycrop.jpg",
-    opts: {
-      season: ["S1"]
-    },
-  },
-	{
-    name: "Eriko Nakamura",
-    img: "audreycrop.jpg",
-    opts: {
-      season: ["S1"]
-    }
-  },
-  {
-    name: "Asami Imai",
-    img: "audreycrop.jpg",
-    opts: {
-      season: ["S1"]
-    }
-  },
-  {
-    name: "Yurina Hase",
-    img: "audreycrop.jpg",
-    opts: {
-      season: ["S1"]
-    }
-  },
-  {
-    name: "Azumi Asakura",
-    img: "audreycrop.jpg",
-    opts: {
-      season: ["S1"]
-    },
-  },
-	{
-    name: "Eriko Nakamura",
-    img: "audreycrop.jpg",
-    opts: {
-      season: ["S1"]
-    }
-  },
-  {
-    name: "Asami Imai",
-    img: "audreycrop.jpg",
-    opts: {
-      season: ["S1"]
-    }
-  },
-  {
-    name: "Yurina Hase",
-    img: "audreycrop.jpg",
-    opts: {
-      season: ["S1"]
-    }
-  },
-  {
-    name: "Azumi Asakura",
-    img: "audreycrop.jpg",
-    opts: {
-      season: ["S1"]
-    },
-  },
-	
+
 ];

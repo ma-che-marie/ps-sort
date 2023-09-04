@@ -45,448 +45,448 @@ dataSet[dataSetVersion].options = [
 dataSet[dataSetVersion].characterData = [
   {
     name: "Eriko Nakamura",
-    img: "kohoonjeong.png",
+    img: "PSAS LEFT.png",
     opts: {
       season: ["S1"]
     }
   },
   {
     name: "Asami Imai",
-    img: "kohoonjeong.png",
+    img: "PSAS LEFT.png",
     opts: {
       season: ["S1"]
     }
   },
   {
     name: "Yurina Hase",
-    img: "kohoonjeong.png",
+    img: "PSAS LEFT.png",
     opts: {
       season: ["S1"]
     }
   },
   {
     name: "Azumi Asakura",
-    img: "kohoonjeong.png",
+    img: "PSAS LEFT.png",
     opts: {
       season: ["S1"]
     },
   },
 	{
     name: "Eriko Nakamura",
-    img: "kohoonjeong.png",
+    img: "PSAS LEFT.png",
     opts: {
       season: ["S1"]
     }
   },
   {
     name: "Asami Imai",
-    img: "kohoonjeong.png",
+    img: "PSAS LEFT.png",
     opts: {
       season: ["S1"]
     }
   },
   {
     name: "Yurina Hase",
-    img: "kohoonjeong.png",
+    img: "PSAS LEFT.png",
     opts: {
       season: ["S1"]
     }
   },
   {
     name: "Azumi Asakura",
-    img: "kohoonjeong.png",
+    img: "PSAS LEFT.png",
     opts: {
       season: ["S1"]
     },
   },
 	{
     name: "Eriko Nakamura",
-    img: "audreycrop.jpg",
+    img: "PSAS LEFT.jpg",
     opts: {
       season: ["S1"]
     }
   },
   {
     name: "Asami Imai",
-    img: "audreycrop.jpg",
+    img: "PSAS LEFT.jpg",
     opts: {
       season: ["S1"]
     }
   },
   {
     name: "Yurina Hase",
-    img: "audreycrop.jpg",
+    img: "PSAS LEFT.jpg",
     opts: {
       season: ["S1"]
     }
   },
   {
     name: "Azumi 12Asakura",
-    img: "audreycrop.jpg",
+    img: "PSAS LEFT.jpg",
     opts: {
       season: ["S1"]
     },
   },
 	{
     name: "Eriko Nakamura",
-    img: "audreycrop.jpg",
+    img: "PSAS LEFT.jpg",
     opts: {
       season: ["S1"]
     }
   },
   {
     name: "Asami Imai",
-    img: "audreycrop.jpg",
+    img: "PSAS LEFT.jpg",
     opts: {
       season: ["S1"]
     }
   },
   {
     name: "Yurina Hase",
-    img: "audreycrop.jpg",
+    img: "PSAS LEFT.jpg",
     opts: {
       season: ["S1"]
     }
   },
   {
     name: "Azumi Asakura",
-    img: "audreycrop.jpg",
+    img: "PSAS LEFT.jpg",
     opts: {
       season: ["S1"]
     },
   },
 	{
     name: "Eriko Nakamura",
-    img: "audreycrop.jpg",
+    img: "PSAS LEFT.jpg",
     opts: {
       season: ["S1"]
     }
   },
   {
     name: "Asami Imai",
-    img: "audreycrop.jpg",
+    img: "PSAS LEFT.jpg",
     opts: {
       season: ["S1"]
     }
   },
   {
     name: "Yurina Hase",
-    img: "audreycrop.jpg",
+    img: "PSAS LEFT.jpg",
     opts: {
       season: ["S1"]
     }
   },
   {
     name: "Azumi Asakura",
-    img: "audreycrop.jpg",
+    img: "PSAS LEFT.jpg",
     opts: {
       season: ["S1"]
     },
   },
 	{
     name: "Eriko Nakamura",
-    img: "audreycrop.jpg",
+    img: "PSAS LEFT.jpg",
     opts: {
       season: ["S1"]
     }
   },
   {
     name: "Asami Imai",
-    img: "audreycrop.jpg",
+    img: "PSAS LEFT.jpg",
     opts: {
       season: ["S1"]
     }
   },
   {
     name: "Yurina Hase",
-    img: "audreycrop.jpg",
+    img: "PSAS LEFT.jpg",
     opts: {
       season: ["S1"]
     }
   },
   {
     name: "Azumi24 Asakura",
-    img: "audreycrop.jpg",
+    img: "PSAS LEFT.jpg",
     opts: {
       season: ["S1"]
     },
   },
 	{
     name: "Eriko Nakamura",
-    img: "audreycrop.jpg",
+    img: "PSAS LEFT.jpg",
     opts: {
       season: ["S1"]
     }
   },
   {
     name: "Asami Imai",
-    img: "audreycrop.jpg",
+    img: "PSAS LEFT.jpg",
     opts: {
       season: ["S1"]
     }
   },
   {
     name: "Yurina Hase",
-    img: "audreycrop.jpg",
+    img: "PSAS LEFT.jpg",
     opts: {
       season: ["S1"]
     }
   },
   {
     name: "Azumi Asakura",
-    img: "audreycrop.jpg",
+    img: "PSAS LEFT.jpg",
     opts: {
       season: ["S1"]
     },
   },
 	{
     name: "Eriko Nakamura",
-    img: "audreycrop.jpg",
+    img: "PSAS LEFT.jpg",
     opts: {
       season: ["S1"]
     }
   },
   {
     name: "Asami Imai",
-    img: "audreycrop.jpg",
+    img: "PSAS LEFT.jpg",
     opts: {
       season: ["S1"]
     }
   },
   {
     name: "Yurina Hase",
-    img: "audreycrop.jpg",
+    img: "PSAS LEFT.jpg",
     opts: {
       season: ["S1"]
     }
   },
   {
     name: "Azumi Asakura",
-    img: "audreycrop.jpg",
+    img: "PSAS LEFT.jpg",
     opts: {
       season: ["S1"]
     },
   },
 	{
     name: "Eriko Nakamura",
-    img: "audreycrop.jpg",
+    img: "PSAS LEFT.jpg",
     opts: {
       season: ["S1"]
     }
   },
   {
     name: "Asami Imai",
-    img: "audreycrop.jpg",
+    img: "PSAS LEFT.jpg",
     opts: {
       season: ["S1"]
     }
   },
   {
     name: "Yurina Hase",
-    img: "audreycrop.jpg",
+    img: "PSAS LEFT.jpg",
     opts: {
       season: ["S1"]
     }
   },
   {
     name: "Azumi 36Asakura",
-    img: "audreycrop.jpg",
+    img: "PSAS LEFT.jpg",
     opts: {
       season: ["S1"]
     },
   },
 	{
     name: "Eriko Nakamura",
-    img: "audreycrop.jpg",
+    img: "PSAS LEFT.jpg",
     opts: {
       season: ["S1"]
     }
   },
   {
     name: "Asami Imai",
-    img: "audreycrop.jpg",
+    img: "PSAS LEFT.jpg",
     opts: {
       season: ["S1"]
     }
   },
   {
     name: "Yurina Hase",
-    img: "audreycrop.jpg",
+    img: "PSAS LEFT.jpg",
     opts: {
       season: ["S1"]
     }
   },
   {
     name: "Azumi Asakura",
-    img: "audreycrop.jpg",
+    img: "PSAS LEFT.jpg",
     opts: {
       season: ["S1"]
     },
   },
 	{
     name: "Eriko Nakamura",
-    img: "audreycrop.jpg",
+    img: "PSAS LEFT.jpg",
     opts: {
       season: ["S1"]
     }
   },
   {
     name: "Asami Imai",
-    img: "audreycrop.jpg",
+    img: "PSAS LEFT.jpg",
     opts: {
       season: ["S1"]
     }
   },
   {
     name: "Yurina Hase",
-    img: "audreycrop.jpg",
+    img: "PSAS LEFT.jpg",
     opts: {
       season: ["S1"]
     }
   },
   {
     name: "Azumi Asakura",
-    img: "audreycrop.jpg",
+    img: "PSAS LEFT.jpg",
     opts: {
       season: ["S1"]
     },
   },
 	{
     name: "Eriko Nakamura",
-    img: "audreycrop.jpg",
+    img: "PSAS LEFT.jpg",
     opts: {
       season: ["S1"]
     }
   },
   {
     name: "Asami Imai",
-    img: "audreycrop.jpg",
+    img: "PSAS LEFT.jpg",
     opts: {
       season: ["S1"]
     }
   },
   {
     name: "Yurina Hase",
-    img: "audreycrop.jpg",
+    img: "PSAS LEFT.jpg",
     opts: {
       season: ["S1"]
     }
   },
   {
     name: "Azumi 48Asakura",
-    img: "audreycrop.jpg",
+    img: "PSAS LEFT.jpg",
     opts: {
       season: ["S1"]
     },
   },
 	{
     name: "Eriko Nakamura",
-    img: "audreycrop.jpg",
+    img: "PSAS LEFT.jpg",
     opts: {
       season: ["S1"]
     }
   },
   {
     name: "Asami Imai",
-    img: "audreycrop.jpg",
+    img: "PSAS LEFT.jpg",
     opts: {
       season: ["S1"]
     }
   },
   {
     name: "Yurina Hase",
-    img: "audreycrop.jpg",
+    img: "PSAS LEFT.jpg",
     opts: {
       season: ["S1"]
     }
   },
   {
     name: "Azumi Asakura",
-    img: "audreycrop.jpg",
+    img: "PSAS LEFT.jpg",
     opts: {
       season: ["S1"]
     },
   },
 	{
     name: "Eriko Nakamura",
-    img: "audreycrop.jpg",
+    img: "PSAS LEFT.jpg",
     opts: {
       season: ["S1"]
     }
   },
   {
     name: "Asami Imai",
-    img: "audreycrop.jpg",
+    img: "PSAS LEFT.jpg",
     opts: {
       season: ["S1"]
     }
   },
   {
     name: "Yurina Hase",
-    img: "audreycrop.jpg",
+    img: "PSAS LEFT.jpg",
     opts: {
       season: ["S1"]
     }
   },
   {
     name: "Azumi Asakura",
-    img: "audreycrop.jpg",
+    img: "PSAS LEFT.jpg",
     opts: {
       season: ["S1"]
     },
   },
 	{
     name: "Eriko Nakamura",
-    img: "audreycrop.jpg",
+    img: "PSAS LEFT.jpg",
     opts: {
       season: ["S1"]
     }
   },
   {
     name: "Asami Imai",
-    img: "audreycrop.jpg",
+    img: "PSAS LEFT.jpg",
     opts: {
       season: ["S1"]
     }
   },
   {
     name: "Yurina Hase",
-    img: "audreycrop.jpg",
+    img: "PSAS LEFT.jpg",
     opts: {
       season: ["S1"]
     }
   },
   {
     name: "Azumi Asakura",
-    img: "audreycrop.jpg",
+    img: "PSAS LEFT.jpg",
     opts: {
       season: ["S1"]
     },
   },
 	{
     name: "Eriko Nakamura",
-    img: "audreycrop.jpg",
+    img: "PSAS LEFT.jpg",
     opts: {
       season: ["S1"]
     }
   },
   {
     name: "Asami Imai",
-    img: "audreycrop.jpg",
+    img: "PSAS LEFT.jpg",
     opts: {
       season: ["S1"]
     }
   },
   {
     name: "Yurina Hase",
-    img: "audreycrop.jpg",
+    img: "PSAS LEFT.jpg",
     opts: {
       season: ["S1"]
     }
   },
   {
     name: "Azumi Asakura",
-    img: "audreycrop.jpg",
+    img: "PSAS LEFT.jpg",
     opts: {
       season: ["S1"]
     },

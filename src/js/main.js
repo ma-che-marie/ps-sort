@@ -466,9 +466,9 @@ function progressBar(indicator, percentage) {
 /**
  * Shows the result of the sorter.
  * 
- * @param {number} [imageNum=all] Number of images to display. Defaults to all.
+ * @param {number} [imageNum=64] Number of images to display. Defaults to 64.
  */
-function result(imageNum = all) {
+function result(imageNum = 64) {
   document.querySelectorAll('.finished.button').forEach(el => el.style.display = 'block');
   document.querySelector('.image.selector').style.display = 'block';
   document.querySelector('.time.taken').style.display = 'block';

@@ -44,10 +44,12 @@ dataSet[dataSetVersion].options = [
 
 dataSet[dataSetVersion].characterData = [
   {
-    name: "Eriko Nakamura",
+    name: "고훈정 | Ko Hoonjeong",
     img: "PSAS LEFT.png",
     opts: {
-      season: ["S1"]
+      season: ["S1"],
+      type: ["classical", "musical"],
+      range: ["baritone"]
     }
   },
   {

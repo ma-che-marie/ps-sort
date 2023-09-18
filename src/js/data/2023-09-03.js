@@ -45,7 +45,7 @@ dataSet[dataSetVersion].options = [
 dataSet[dataSetVersion].characterData = [
   {
     name: "고훈정 | Ko Hoonjeong",
-    img: "PSAS LEFT.png",
+    img: "kohoonjeong.png",
     opts: {
       season: ["S1"],
       type: ["classical", "musical"],
@@ -54,7 +54,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "김현수 | Kim Hyunsoo",
-    img: "PSAS LEFT.png",
+    img: "kimhyunsoo.png",
     opts: {
       season: ["S1"],
       type: ["classical"],
@@ -63,7 +63,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "손태진 | Son Taejin",
-    img: "PSAS LEFT.png",
+    img: "sontaejin.png",
     opts: {
      season: ["S1"],
       type: ["classical"],
@@ -72,7 +72,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "이벼리 | Lee Byeori",
-    img: "PSAS LEFT.png",
+    img: "leebyeori.png",
     opts: {
       season: ["S1"],
       type: ["classical"],
@@ -81,7 +81,7 @@ dataSet[dataSetVersion].characterData = [
   },
 	{
     name: "백인태 | Paek Intae",
-    img: "PSAS LEFT.png",
+    img: "paekintae.png",
     opts: {
       season: ["S1"],
       type: ["classical"],
@@ -90,7 +90,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "유슬기 | Yoo Seulgi",
-    img: "PSAS LEFT.png",
+    img: "yooseulgi.png",
     opts: {
       season: ["S1"],
       type: ["classical"],
@@ -99,7 +99,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "곽동현 | Kwak Donghyun",
-    img: "PSAS LEFT.png",
+    img: "kwakdonghyun.png",
     opts: {
       season: ["S1"],
       type: ["rockpop"],
@@ -108,7 +108,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "박상돈 | Park Sangdon",
-    img: "PSAS LEFT.png",
+    img: "parksangdon.png",
     opts: {
       season: ["S1"],
       type: ["classical"],
@@ -116,7 +116,7 @@ dataSet[dataSetVersion].characterData = [
   },
 	{
     name: "권서겅 | Kwon Seokyung",
-    img: "PSAS LEFT.jpg",
+    img: "kwonseokyung.png",
     opts: {
       season: ["S1"],
       type: ["classical"],
@@ -124,7 +124,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "이동신 | Lee Dongshin",
-    img: "PSAS LEFT.jpg",
+    img: "leedongshin.png",
     opts: {
       season: ["S1"],
       type: ["classical"],
@@ -133,7 +133,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "백형훈 | Baek Hyeonghun",
-    img: "PSAS LEFT.jpg",
+    img: "baekhyeonghun.png",
     opts: {
       season: ["S1"],
       type: ["musical"],
@@ -142,7 +142,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "고은성 | Ko Eunsung",
-    img: "PSAS LEFT.jpg",
+    img: "koeunsung.png",
     opts: {
       season: ["S1"],
       type: ["musical"],
@@ -151,7 +151,7 @@ dataSet[dataSetVersion].characterData = [
   },
 	{
     name: "조민규 | Cho Mingyu",
-    img: "PSAS LEFT.jpg",
+    img: "chomingyu.png",
     opts: {
       season: ["S2"],
       type: ["classical"],
@@ -160,7 +160,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "배두훈 | Bae Doohoon",
-    img: "PSAS LEFT.jpg",
+    img: "baedoohoon.png",
     opts: {
       season: ["S2"],
       type: ["musical"],
@@ -169,7 +169,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "강형호 | Kang Hyungho",
-    img: "PSAS LEFT.jpg",
+    img: "kanghyungho.png",
     opts: {
       season: ["S2"],
       type: ["rockpop"],
@@ -178,7 +178,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "고우림 | Ko Woorim",
-    img: "PSAS LEFT.jpg",
+    img: "kowoorim.png",
     opts: {
       season: ["S2"],
       type: ["classical"],
@@ -187,7 +187,7 @@ dataSet[dataSetVersion].characterData = [
   },
 	{
     name: "김주택 | Kim Jootaek",
-    img: "PSAS LEFT.jpg",
+    img: "kimjootaek.png",
     opts: {
       season: ["S2"],
       type: ["classical"],
@@ -196,7 +196,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "정필립 | Jeong Phillip",
-    img: "PSAS LEFT.jpg",
+    img: "jeongphillip.png",
     opts: {
       season: ["S2"],
       type: ["classical"],
@@ -205,7 +205,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "박강현 | Park Kanghyun",
-    img: "PSAS LEFT.jpg",
+    img: "parkkanghyun.png",
     opts: {
       season: ["S2"],
       type: ["musical"],
@@ -214,7 +214,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "한태인 | Han Taein",
-    img: "PSAS LEFT.jpg",
+    img: "hantaein.png",
     opts: {
       season: ["S2"],
       type: ["classical"],
@@ -223,7 +223,7 @@ dataSet[dataSetVersion].characterData = [
   },
 	{
     name: "조형균 | Zo Hyunggyun",
-    img: "PSAS LEFT.jpg",
+    img: "zohyunggyun.png",
     opts: {
       season: ["S2"],
       type: ["musical"],
@@ -232,7 +232,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "이충주 | Lee Choongjoo",
-    img: "PSAS LEFT.jpg",
+    img: "leechoongjoo.png",
     opts: {
       season: ["S2"],
       type: ["classical", "musical"],
@@ -241,7 +241,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "김동현 | Kim Donghyun",
-    img: "PSAS LEFT.jpg",
+    img: "kimdonghyun.png",
     opts: {
       season: ["S2"],
       type: ["classical"],
@@ -250,7 +250,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "안세권 | Ahn Sekwon",
-    img: "PSAS LEFT.jpg",
+    img: "ahnsekwon.png",
     opts: {
       season: ["S2"],
       type: ["classical"],
@@ -259,7 +259,7 @@ dataSet[dataSetVersion].characterData = [
   },
 	{
     name: "유채훈 | You Chaehoon",
-    img: "PSAS LEFT.jpg",
+    img: "youchaehoon.png",
     opts: {
       season: ["S3"],
       type: ["classical"],
@@ -268,7 +268,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "최성훈 | Choi Sunghoon",
-    img: "PSAS LEFT.jpg",
+    img: "choisunghoon.png",
     opts: {
       season: ["S3"],
       type: ["classical"],
@@ -277,7 +277,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "정민성 | Jeong Minseong",
-    img: "PSAS LEFT.jpg",
+    img: "jeongminseong.png",
     opts: {
       season: ["S3"],
       type: ["classical"],
@@ -286,7 +286,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "박기훈 | Park Kihun",
-    img: "PSAS LEFT.jpg",
+    img: "parkkihun.png",
     opts: {
       season: ["S3"],
       type: ["classical"],
@@ -295,7 +295,7 @@ dataSet[dataSetVersion].characterData = [
   },
 	{
     name: "김바울 | Kim Paul",
-    img: "PSAS LEFT.jpg",
+    img: "kimpaul.png",
     opts: {
       season: ["S3"],
       type: ["classical"],
@@ -304,7 +304,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "존노 | John Noh",
-    img: "PSAS LEFT.jpg",
+    img: "johnnoh.png",
     opts: {
       season: ["S3"],
       type: ["classical"],
@@ -313,7 +313,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "고영열 | Ko Yeongyeol",
-    img: "PSAS LEFT.jpg",
+    img: "koyeongyeol.png",
     opts: {
       season: ["S3"],
       type: ["gugak"],
@@ -322,7 +322,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "황건하 | Hwang Gunha",
-    img: "PSAS LEFT.jpg",
+    img: "hwanggunha.png",
     opts: {
       season: ["S3"],
       type: ["musical"],
@@ -331,7 +331,7 @@ dataSet[dataSetVersion].characterData = [
   },
 	{
     name: "길병민 | Gil Byeongmin",
-    img: "PSAS LEFT.jpg",
+    img: "gilbyeongmin.png",
     opts: {
       season: ["S3"],
       type: ["classical"],
@@ -340,7 +340,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "김성식 | Kim Sungsik",
-    img: "PSAS LEFT.jpg",
+    img: "kimsungsik.png",
     opts: {
       season: ["S3"],
       type: ["musical"],
@@ -349,7 +349,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "김민석 | Kim Minseok",
-    img: "PSAS LEFT.jpg",
+    img: "kimminseok.png",
     opts: {
       season: ["S3"],
       type: ["classical"],
@@ -358,7 +358,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "박현수 | Park Hyunsoo",
-    img: "PSAS LEFT.jpg",
+    img: "parkhyunsoo.png",
     opts: {
       season: ["S3"],
       type: ["classical"],
@@ -367,7 +367,7 @@ dataSet[dataSetVersion].characterData = [
   },
 	{
     name: "김지훈 | Kim Jihoon",
-    img: "PSAS LEFT.jpg",
+    img: "kimjihoon.png",
     opts: {
       season: ["S4"],
       type: ["classical", "musical"],
@@ -376,7 +376,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "진원 | Jin Won",
-    img: "PSAS LEFT.jpg",
+    img: "jinwon.png",
     opts: {
       season: ["S4"],
       type: ["classical"],
@@ -385,7 +385,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "정승원 | Jung Seungwon",
-    img: "PSAS LEFT.jpg",
+    img: "jungseungwon.png",
     opts: {
       season: ["S4"],
       type: ["classical"],
@@ -394,7 +394,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "노현우 | Roh Hyunwoo",
-    img: "PSAS LEFT.jpg",
+    img: "rohhyunwoo.png",
     opts: {
       season: ["S4"],
       type: ["classical"],
@@ -403,7 +403,7 @@ dataSet[dataSetVersion].characterData = [
   },
 	{
     name: "오스틴킴 | Austin Kim",
-    img: "PSAS LEFT.jpg",
+    img: "austinkim.png",
     opts: {
       season: ["S4"],
       type: ["classical"],
@@ -412,7 +412,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "이동규 | Lee Dongqyu",
-    img: "PSAS LEFT.jpg",
+    img: "leedongqyu.png",
     opts: {
       season: ["S4"],
       type: ["classical"],
@@ -421,7 +421,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "서영택 | Seo Yeongtaek",
-    img: "PSAS LEFT.jpg",
+    img: "seoyeongtaek.png",
     opts: {
       season: ["S4"],
       type: ["classical"],
@@ -430,7 +430,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "김성현 | Kim Seonghyeon",
-    img: "PSAS LEFT.jpg",
+    img: "kimseonghyeon.png",
     opts: {
       season: ["S4"],
       type: ["classical"],
@@ -439,7 +439,7 @@ dataSet[dataSetVersion].characterData = [
   },
 	{
     name: "임규형 | Lim Kyuhyung",
-    img: "PSAS LEFT.jpg",
+    img: "limkyuhyung.png",
     opts: {
       season: ["S4"],
       type: ["musical"],
@@ -448,7 +448,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "조진호 | Jo Jinho",
-    img: "PSAS LEFT.jpg",
+    img: "jojinho.png",
     opts: {
       season: ["S4"],
       type: ["rockpop"],
@@ -457,7 +457,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "김수인 | Kim Suin",
-    img: "PSAS LEFT.jpg",
+    img: "kimsuin.png",
     opts: {
       season: ["S4"],
       type: ["gugak"],
@@ -466,7 +466,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "이승민 | Lee Seungmin",
-    img: "PSAS LEFT.jpg",
+    img: "leeseungmin.png",
     opts: {
       season: ["S4"],
       type: ["classical"],
@@ -475,7 +475,7 @@ dataSet[dataSetVersion].characterData = [
   },
 	{
     name: "박준범 | Park Junbeom",
-    img: "PSAS LEFT.jpg",
+    img: "parkjunbeom.png",
     opts: {
       season: ["S4all"],
       type: ["classical"],
@@ -484,7 +484,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "김우성 | Kim Wooseong",
-    img: "PSAS LEFT.jpg",
+    img: "kimwooseong.png",
     opts: {
       season: ["S4all"],
       type: ["musical"],
@@ -493,7 +493,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "이해준 | Lee Haejun",
-    img: "PSAS LEFT.jpg",
+    img: "leehaejun.png",
     opts: {
       season: ["S4all"],
       type: ["musical"],
@@ -502,7 +502,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "이기현 | Lee Kihyun",
-    img: "PSAS LEFT.jpg",
+    img: "leekihyun.png",
     opts: {
       season: ["S4all"],
       type: ["classical"],
@@ -511,7 +511,7 @@ dataSet[dataSetVersion].characterData = [
   },
 	{
     name: "김광진 | Kim Kwangjin",
-    img: "PSAS LEFT.jpg",
+    img: "kimkwangjin.png",
     opts: {
       season: ["S4all"],
       type: ["rockpop"],
@@ -520,7 +520,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "림팍 | Rim Park",
-    img: "PSAS LEFT.jpg",
+    img: "rimpark.png",
     opts: {
       season: ["S4all"],
       type: ["classical"],
@@ -529,7 +529,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "신은총 | Shin Eunchong",
-    img: "PSAS LEFT.jpg",
+    img: "shineunchong.png",
     opts: {
       season: ["S4all"],
       type: ["musical"],
@@ -538,7 +538,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "안민수 | Ahn Minsoo",
-    img: "PSAS LEFT.jpg",
+    img: "ahnminsoo.png",
     opts: {
       season: ["S4all"],
       type: ["classical"],
@@ -547,7 +547,7 @@ dataSet[dataSetVersion].characterData = [
   },
 	{
     name: "이한범 | Lee Hanbeom",
-    img: "PSAS LEFT.jpg",
+    img: "leehanbeom.png",
     opts: {
       season: ["S4all"],
       type: ["classical"],
@@ -556,7 +556,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "안혜찬 | Ahn Hyechan",
-    img: "PSAS LEFT.jpg",
+    img: "ahnhyechan.png",
     opts: {
       season: ["S4all"],
       type: ["classical"],
@@ -565,7 +565,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "김모세 | Kim Mose",
-    img: "PSAS LEFT.jpg",
+    img: "kimmose.png",
     opts: {
       season: ["S4all"],
       type: ["classical"],
@@ -574,7 +574,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "홍준기 | Hong Jungi",
-    img: "PSAS LEFT.jpg",
+    img: "hongjungi.png",
     opts: {
       season: ["S4all"],
       type: ["musical"],
@@ -583,7 +583,7 @@ dataSet[dataSetVersion].characterData = [
   },
 	{
     name: "이홍석 | Lee Hongseok",
-    img: "PSAS LEFT.jpg",
+    img: "leehongseok.png",
     opts: {
       season: ["S4all"],
       type: ["classical"],
@@ -592,7 +592,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "이세헌 | Lee Seheon",
-    img: "PSAS LEFT.jpg",
+    img: "leeseheon.png",
     opts: {
       season: ["S4all"],
       type: ["musical"],
@@ -601,7 +601,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "윤현선 | Yun Hyunsun",
-    img: "PSAS LEFT.jpg",
+    img: "yunhyunsun.png",
     opts: {
       season: ["S4all"],
       type: ["musical"],
@@ -610,7 +610,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "임현준 | Lim Hyunjoon",
-    img: "PSAS LEFT.jpg",
+    img: "limhyunjoon.png",
     opts: {
       season: ["S4all"],
       type: ["classical"],

@@ -53,38 +53,48 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Asami Imai",
+    name: "김현수 | Kim Hyunsoo",
     img: "PSAS LEFT.png",
     opts: {
-      season: ["S1"]
+      season: ["S1"],
+      type: ["classical"],
+      range: ["tenor"]
     }
   },
   {
-    name: "Yurina Hase",
+    name: "손태진 | Son Taejin",
     img: "PSAS LEFT.png",
     opts: {
-      season: ["S1"]
+     season: ["S1"],
+      type: ["classical"],
+      range: ["bb"]
     }
   },
   {
-    name: "Azumi Asakura",
+    name: "이벼리",
     img: "PSAS LEFT.png",
     opts: {
-      season: ["S1"]
+     season: ["S1"],
+      type: ["classical"],
+      range: ["tenor"]
     },
   },
 	{
-    name: "Eriko Nakamura",
+    name: "백인태 | Paek Intae",
     img: "PSAS LEFT.png",
     opts: {
-      season: ["S1"]
+season: ["S1"],
+      type: ["classical"],
+      range: ["tenor"]    
     }
   },
   {
-    name: "Asami Imai",
+    name: "유슬기 | Yoo Seulgi",
     img: "PSAS LEFT.png",
     opts: {
-      season: ["S1"]
+season: ["S1"],
+      type: ["classical"],
+      range: ["tenor"]    
     }
   },
   {

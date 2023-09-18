@@ -71,7 +71,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "이벼리",
+    name: "이벼리 | Lee Byeori",
     img: "PSAS LEFT.png",
     opts: {
      season: ["S1"],
@@ -98,46 +98,56 @@ season: ["S1"],
     }
   },
   {
-    name: "Yurina Hase",
+    name: "곽동현 | Kwak Donghyun",
     img: "PSAS LEFT.png",
     opts: {
-      season: ["S1"]
+      season: ["S1"],
+      type: ["rockpop"],
+      range: ["tenor"]    
     }
   },
   {
-    name: "Azumi Asakura",
+    name: "박상돈 | Park Sangdon",
     img: "PSAS LEFT.png",
     opts: {
-      season: ["S1"]
-    },
+season: ["S1"],
+      type: ["classical"],
+      range: ["baritone"]      },
   },
 	{
-    name: "Eriko Nakamura",
+    name: "권서겅 | Kwon Seokyung",
     img: "PSAS LEFT.jpg",
     opts: {
-      season: ["S1"]
+ season: ["S1"],
+      type: ["classical"],
+      range: ["bb"]    }
+  },
+  {
+    name: "이동신 | Lee Dongshin",
+    img: "PSAS LEFT.jpg",
+    opts: {
+season: ["S1"],
+      type: ["classical"],
+      range: ["tenor"] 
     }
   },
   {
-    name: "Asami Imai",
+    name: "백형훈 | Baek Hyeonghun",
     img: "PSAS LEFT.jpg",
     opts: {
-      season: ["S1"]
+season: ["S1"],
+      type: ["musical"],
+      range: ["tenor"]   
     }
   },
   {
-    name: "Yurina Hase",
+    name: "고은성 | Ko Eunsung",
     img: "PSAS LEFT.jpg",
     opts: {
-      season: ["S1"]
-    }
-  },
-  {
-    name: "Azumi 12Asakura",
-    img: "PSAS LEFT.jpg",
-    opts: {
-      season: ["S1"]
-    },
+season: ["S1"],
+      type: ["musical"],
+      range: ["tenor"]   
+},
   },
 	{
     name: "Eriko Nakamura",

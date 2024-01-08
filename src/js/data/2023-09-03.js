@@ -600,8 +600,8 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "윤현선 | Yun Hyunsun",
-    img: "yunhyunsun.png",
+    name: "윤현선 | Yun Hyunseon",
+    img: "yunhyunseon.png",
     opts: {
       season: ["S4all"],
       type: ["musical"],

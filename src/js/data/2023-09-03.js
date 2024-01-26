@@ -3,22 +3,22 @@ dataSet[dataSetVersion] = {};
 
 dataSet[dataSetVersion].options = [
   {
-    name: "Filter by Season",
+    name: "Filter by Season (시즌별 필터)",
     key: "season",
-    tooltip: "Check this to restrict to certain seasons/contestants.",
+    tooltip: "Check this to restrict to certain seasons/contestants. (특정 시즌/참가자로 제한하려면 이 항목을 선택하세요.)",
     checked: false,
     sub: [
-	  { name: "Season 1 Finalists", key: "S1" },
-      { name: "Season 2 Finalists", key: "S2" },
-      { name: "Season 3 Finalists", key: "S3" },
-      { name: "Season 4 Finalists", key: "S4" },
-      { name: "Season 4 Contestants (Non-Finalists)", key: "S4all" }
+	  { name: "Season 1 Finalists (시즌1 파이널리스트)", key: "S1" },
+      { name: "Season 2 Finalists (시즌2 파이널리스트)", key: "S2" },
+      { name: "Season 3 Finalists (시즌3 파이널리스트)", key: "S3" },
+      { name: "Season 4 Finalists (시즌4 파이널리스트)", key: "S4" },
+      { name: "Season 4 Non-Finalist Contestants (시즌4 참가자)", key: "S4all" }
     ]
   },
 	{
-    name: "Filter by Voice Type",
+    name: "Filter by Voice Type (음성 유형별 필터)",
     key: "type",
-    tooltip: "Check this to restrict to singers of a certain voice type/music background.",
+    tooltip: "Check this to restrict to singers of a certain voice type/music background. (특정 음성 유형/음악배경의 싱어로 제한하려면 이 항목을 선택하세요.)",
     checked: false,
     sub: [ 
       { name: "Classical (성악가)", key: "classical" }, 
@@ -28,9 +28,9 @@ dataSet[dataSetVersion].options = [
     ]
   },
 {
-    name: "Filter by Vocal Range",
+    name: "Filter by Vocal Range (음역별 필터)",
     key: "range",
-    tooltip: "Check this to restrict to singers of a certain vocal range.",
+    tooltip: "Check this to restrict to singers of a certain vocal range. (특정 음역대의 싱어로 제한하려면 이 항목을 선택하세요.)",
     checked: false,
     sub: [ 
       { name: "Bass (베이스)", key: "bass" }, 

@@ -40,7 +40,26 @@ dataSet[dataSetVersion].options = [
       { name: "Countertenor (카운터테너)", key: "counter" }
     ]
   },
-];
+{
+    name: "Filter by Group (그룹별 필터)",
+    key: "group",
+    tooltip: "Check this to restrict to singers of a certain group. (특정 그룹 제한하려면 이 항목을 선택하세요.)",
+    checked: false,
+    sub: [ 
+      { name: "Forte di Quattro (포르테 디 콰토로)", key: "fdq" }, 
+      { name: "Ingihyunsang (인기현상)", key: "ighs" }, 
+      { name: "Hpresso (흉스프레소)", key: "hp" }, 
+      { name: "Forestella (포레스텔라)", key: "fore" }, 
+      { name: "Miraclass (미라클라스)", key: "mira" },
+      { name: "Edel Reinklang (에델 라인클랑)", key: "edel" },
+      { name: "La Poem (라포엠)", key: "lapo" },
+      { name: "RabidAnce (라비던스)", key: "rabi" },
+      { name: "Letteamor (레떼아모르)", key: "lette" },
+      { name: "Libelante (리베란테)", key: "libe" },
+      { name: "Forténa (포르테나)", key: "4t" },
+      { name: "CREZL (크레즐)", key: "czl" }
+    ]
+  },];
 
 dataSet[dataSetVersion].characterData = [
   {
@@ -49,7 +68,8 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       season: ["S1"],
       type: ["classical", "musical"],
-      range: ["baritone"]
+      range: ["baritone"],
+      group: ["fdq"]    
     }
   },
   {
@@ -58,7 +78,8 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       season: ["S1"],
       type: ["classical"],
-      range: ["tenor"]
+      range: ["tenor"],
+      group: ["fdq"]    
     }
   },
   {
@@ -67,8 +88,9 @@ dataSet[dataSetVersion].characterData = [
     opts: {
      season: ["S1"],
       type: ["classical"],
-      range: ["bb"]
-    }
+      range: ["bb"],
+      group: ["fdq"]    
+}
   },
   {
     name: "이벼리 | Lee Byeori",
@@ -76,8 +98,9 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       season: ["S1"],
       type: ["classical"],
-      range: ["tenor"]
-    },
+      range: ["tenor"],
+      group: ["fdq"]    
+},
   },
 	{
     name: "백인태 | Paek Intae",
@@ -85,8 +108,9 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       season: ["S1"],
       type: ["classical"],
-      range: ["tenor"]    
-    }
+      range: ["tenor"],    
+      group: ["ighs"]    
+}
   },
   {
     name: "유슬기 | Yoo Seulgi",
@@ -94,7 +118,8 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       season: ["S1"],
       type: ["classical"],
-      range: ["tenor"]    
+      range: ["tenor"],    
+      group: ["ighs"]    
     }
   },
   {
@@ -103,7 +128,8 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       season: ["S1"],
       type: ["rockpop"],
-      range: ["tenor"]    
+      range: ["tenor"],    
+      group: ["ighs"]    
     }
   },
   {
@@ -112,7 +138,9 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       season: ["S1"],
       type: ["classical"],
-      range: ["baritone"]      },
+      range: ["baritone"],      
+      group: ["ighs"]        
+    }
   },
 	{
     name: "권서겅 | Kwon Seokyung",
@@ -120,7 +148,9 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       season: ["S1"],
       type: ["classical"],
-      range: ["bb"]    }
+      range: ["bb"],    
+      group: ["hp"]    
+    }
   },
   {
     name: "이동신 | Lee Dongshin",
@@ -128,7 +158,8 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       season: ["S1"],
       type: ["classical"],
-      range: ["tenor"] 
+      range: ["tenor"], 
+      group: ["hp"]    
     }
   },
   {
@@ -137,7 +168,8 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       season: ["S1"],
       type: ["musical"],
-      range: ["tenor"]   
+      range: ["tenor"],   
+      group: ["hp"]    
     }
   },
   {
@@ -146,7 +178,8 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       season: ["S1"],
       type: ["musical"],
-      range: ["tenor"]   
+      range: ["tenor"],   
+      group: ["hp"]    
 },
   },
 	{
@@ -155,7 +188,8 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       season: ["S2"],
       type: ["classical"],
-      range: ["tenor"]     
+      range: ["tenor"],     
+      group: ["fore"]    
     }
   },
   {
@@ -164,7 +198,8 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       season: ["S2"],
       type: ["musical"],
-      range: ["tenor"]   
+      range: ["tenor"],     
+      group: ["fore"]       
     }
   },
   {
@@ -173,7 +208,8 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       season: ["S2"],
       type: ["rockpop"],
-      range: ["tenor", "counter"]   
+      range: ["tenor", "counter"],     
+      group: ["fore"]       
     }
   },
   {
@@ -182,7 +218,8 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       season: ["S2"],
       type: ["classical"],
-      range: ["bass"]     
+      range: ["bass"],     
+      group: ["fore"]         
     },
   },
 	{
@@ -191,7 +228,8 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       season: ["S2"],
       type: ["classical"],
-      range: ["baritone"]    
+      range: ["baritone"],     
+      group: ["mira"]        
     }
   },
   {
@@ -200,7 +238,8 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       season: ["S2"],
       type: ["classical"],
-      range: ["tenor"]    
+      range: ["tenor"],     
+      group: ["mira"]            
     }
   },
   {
@@ -209,7 +248,8 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       season: ["S2"],
       type: ["musical"],
-      range: ["tenor"]    
+      range: ["tenor"],     
+      group: ["mira"]            
     }
   },
   {
@@ -218,7 +258,8 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       season: ["S2"],
       type: ["classical"],
-      range: ["bass"]    
+      range: ["bass"],     
+      group: ["mira"]            
     },
   },
 	{
@@ -227,7 +268,8 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       season: ["S2"],
       type: ["musical"],
-      range: ["baritone"]    
+      range: ["baritone"],     
+      group: ["edel"]            
     }
   },
   {
@@ -236,7 +278,8 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       season: ["S2"],
       type: ["classical", "musical"],
-      range: ["baritone"]    
+      range: ["baritone"],     
+      group: ["edel"]        
     }
   },
   {
@@ -245,7 +288,8 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       season: ["S2"],
       type: ["classical"],
-      range: ["bb"]    
+      range: ["bb"],     
+      group: ["edel"]        
     }
   },
   {
@@ -254,7 +298,8 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       season: ["S2"],
       type: ["classical"],
-      range: ["tenor"]    
+      range: ["tenor"],     
+      group: ["edel"]        
     },
   },
 	{
@@ -263,7 +308,8 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       season: ["S3"],
       type: ["classical"],
-      range: ["tenor"]      
+      range: ["tenor"],     
+      group: ["lapo"]          
     }
   },
   {
@@ -272,7 +318,8 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       season: ["S3"],
       type: ["classical"],
-      range: ["counter"]    
+      range: ["counter"],     
+      group: ["lapo"]        
     }
   },
   {
@@ -281,7 +328,8 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       season: ["S3"],
       type: ["classical"],
-      range: ["baritone"]    
+      range: ["baritone"],     
+      group: ["lapo"]        
     }
   },
   {
@@ -290,7 +338,8 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       season: ["S3"],
       type: ["classical"],
-      range: ["tenor"]    
+      range: ["tenor"],     
+      group: ["lapo"]        
     },
   },
 	{
@@ -299,7 +348,8 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       season: ["S3"],
       type: ["classical"],
-      range: ["bass"]    
+      range: ["bass"],     
+      group: ["rabi"]        
     }
   },
   {
@@ -308,7 +358,8 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       season: ["S3"],
       type: ["classical"],
-      range: ["tenor"]    
+      range: ["tenor"],     
+      group: ["rabi"]     
     }
   },
   {
@@ -317,7 +368,8 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       season: ["S3"],
       type: ["gugak"],
-      range: ["tenor"]    
+      range: ["tenor"],     
+      group: ["rabi"]     
     }
   },
   {
@@ -326,7 +378,8 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       season: ["S3"],
       type: ["musical"],
-      range: ["baritone"]    
+      range: ["baritone"],     
+      group: ["rabi"]     
     },
   },
 	{
@@ -335,7 +388,8 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       season: ["S3"],
       type: ["classical"],
-      range: ["bb"]    
+      range: ["bb"],     
+      group: ["lette"]     
     }
   },
   {
@@ -344,7 +398,8 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       season: ["S3"],
       type: ["musical"],
-      range: ["baritone"]    
+      range: ["baritone"],     
+      group: ["lette"]     
     }
   },
   {
@@ -353,7 +408,8 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       season: ["S3"],
       type: ["classical"],
-      range: ["tenor"]    
+      range: ["tenor"],     
+      group: ["lette"]     
     }
   },
   {
@@ -362,7 +418,8 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       season: ["S3"],
       type: ["classical"],
-      range: ["baritone"]    
+      range: ["baritone"],     
+      group: ["lette"]     
     },
   },
 	{
@@ -371,7 +428,8 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       season: ["S4"],
       type: ["classical", "musical"],
-      range: ["baritone"]    
+      range: ["baritone"],     
+      group: ["libe"]     
     }
   },
   {
@@ -380,7 +438,8 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       season: ["S4"],
       type: ["classical"],
-      range: ["tenor"]    
+      range: ["tenor"],     
+      group: ["libe"]     
     }
   },
   {
@@ -389,7 +448,8 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       season: ["S4"],
       type: ["classical"],
-      range: ["tenor"]    
+      range: ["tenor"],     
+      group: ["libe"]     
     }
   },
   {
@@ -398,7 +458,8 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       season: ["S4"],
       type: ["classical"],
-      range: ["baritone"]    
+      range: ["baritone"],     
+      group: ["libe"]     
     },
   },
 	{
@@ -407,7 +468,8 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       season: ["S4"],
       type: ["classical"],
-      range: ["counter"]    
+      range: ["counter"],     
+      group: ["4t"]     
     }
   },
   {
@@ -416,7 +478,8 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       season: ["S4"],
       type: ["classical"],
-      range: ["counter"]    
+      range: ["counter"],     
+      group: ["4t"]         
     }
   },
   {
@@ -425,7 +488,8 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       season: ["S4"],
       type: ["classical"],
-      range: ["tenor"]    
+      range: ["tenor"],     
+      group: ["4t"]         
     }
   },
   {
@@ -434,7 +498,8 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       season: ["S4"],
       type: ["classical"],
-      range: ["tenor"]    
+      range: ["tenor"],     
+      group: ["4t"]         
     },
   },
 	{
@@ -443,7 +508,8 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       season: ["S4"],
       type: ["musical"],
-      range: ["tenor"]    
+      range: ["tenor"],     
+      group: ["czl"]         
     }
   },
   {
@@ -452,7 +518,8 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       season: ["S4"],
       type: ["rockpop"],
-      range: ["tenor"]    
+      range: ["tenor"],     
+      group: ["czl"]      
     }
   },
   {
@@ -461,7 +528,8 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       season: ["S4"],
       type: ["gugak"],
-      range: ["tenor"]    
+      range: ["tenor"],     
+      group: ["czl"]      
     }
   },
   {
@@ -470,7 +538,8 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       season: ["S4"],
       type: ["classical"],
-      range: ["baritone"]    
+      range: ["baritone"],     
+      group: ["czl"]      
     },
   },
 	{

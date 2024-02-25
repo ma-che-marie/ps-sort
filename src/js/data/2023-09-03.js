@@ -143,8 +143,8 @@ dataSet[dataSetVersion].characterData = [
     }
   },
 	{
-    name: "권서겅 | Kwon Seokyung",
-    img: "kwonseokyung.png",
+    name: "권서겅 | Kwon Seokyoung",
+    img: "kwonseokyoung.png",
     opts: {
       season: ["S1"],
       type: ["classical"],
